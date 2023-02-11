@@ -213,7 +213,7 @@ form {
 .button3{
 	position: absolute;
 	bottom: 890px;
-	left: 1240px;
+	left: 1667px;
 	background-color: #333;
 
 
@@ -309,3 +309,81 @@ form {
 	border-width: 4px;
 }
 
+.broodspies-aardbeien{
+	width: 700px;
+	height: 600px;
+	margin-left: 500px;
+	margin-top: 50px;
+	border-style: solid;
+	border-color: #333;
+	border-radius: 3%;
+	border-width: 4px;
+	margin: 20px 0 20px 50px;
+}
+
+.text-box-1 {
+	background-color: lightgray;
+	padding: 20px;
+	font-size: 20px;
+	border-radius: 10px;
+	border: 2px solid black;
+	width: 400px;
+	margin: 20px 0 20px 50px;
+	height: 420px
+
+	
+	
+}
+
+.text-box-2 {
+	background-color: lightgray;
+	text-align: center;
+	padding: 20px;
+	font-size: 20px;
+	border-radius: 10px;
+	border: 2px solid black;
+	width: 400px;
+	margin: -480px 0 20px 800px;
+	height: 420px
+	
+	
+	
+
+}
+
+.text-box-3 {
+	background-color: lightgray;
+	text-align: center;
+	padding: 20px;
+	font-size: 20px;
+	border-radius: 10px;
+	border: 2px solid black;
+	width: 600px;
+	margin: -485px 0 20px 1550px;
+	height: 420px
+
+}
+
+  .large-font {
+	font-size: 35px;
+  }
+  
+  
+  
+  .large-text-3 {
+	font-size: 70px;
+	margin: -980px 0 20px 20px;
+  }
+  
+  .bowl2 {
+	width: 700px;
+	height: 600px;
+	margin-left: 500px;
+	margin-top: 50px;
+	border-style: solid;
+	border-color: #333;
+	border-radius: 3%;
+	border-width: 4px;
+	margin: 20px 0 20px 50px;
+
+  }
