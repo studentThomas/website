@@ -330,7 +330,7 @@ form {
 	border: 2px solid black;
 	width: 400px;
 	margin: 20px 0 20px 50px;
-	height: 420px
+	height: 450px
 
 	
 	
@@ -344,9 +344,9 @@ form {
 	border-radius: 10px;
 	border: 2px solid black;
 	width: 400px;
-	margin: -480px;
+	margin: -515px;
 	margin-left: 630px;
-	height: 420px
+	height: 450px
 	
 	
 	
@@ -361,11 +361,9 @@ form {
 	border-radius: 10px;
 	border: 2px solid black;
 	width: 600px;
-	margin: -485px;
+	margin-top: 0px;
 	margin-left: 1200px;
-	margin-top: 15px;
-	height: 420px
-
+	height: 450px
 }
 
   .large-font {
@@ -380,10 +378,9 @@ form {
   
   
   .large-text-3 {
-	font-size: 50px;
+	font-size: 30px;
 	margin: -1000px;
-	margin-left: 800px;
-	font-size: 35px;
+	margin-left: 0px;
 	font-family: 'poppins', sans-serif;
 	text-transform: uppercase;
 	padding: 0px 30px;
@@ -393,10 +390,9 @@ form {
 
   }
   .large-text{
-	font-size: 50px;
-	margin: -1000px;
-	margin-left: 900px;
 	font-size: 35px;
+	margin: -1000px;
+	margin-left: 0px;
 	font-family: 'poppins', sans-serif;
 	text-transform: uppercase;
 	padding: 0px 30px;
@@ -577,4 +573,200 @@ p{
 .para-2 a{
 	color: white;
 
+}
+
+.box4{
+	float: left;
+	font-family: 'poppins', sans-serif;
+	text-transform:uppercase;
+	text-decoration: underline;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+	font-size: 15px;
+	background-color: lightgray;
+	padding: 0px;
+	border-radius: 10px;
+	border: 2px solid black;
+	width: 400px;
+	margin-top: 0px;
+	margin-left: 100px ;
+	height: 70px;
+	
+}
+
+.box5{
+	float:right;
+	font-family: 'poppins', sans-serif;
+	text-transform:uppercase;
+	text-decoration: underline;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+	font-size: 15px;
+	background-color: lightgray;
+	padding: 0px;
+	border-radius: 10px;
+	border: 2px solid black;
+	width: 400px;
+	margin-top: 0px;
+	margin-left: 0px ;
+	height: 70px;
+	margin-right: 750px;
+	
+}
+
+.box6{
+	font-family: 'poppins', sans-serif;
+	text-transform:uppercase;
+	text-decoration: underline;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+	font-size: 15px;
+	background-color: lightgray;
+	padding: 0px;
+	border-radius: 10px;
+	border: 2px solid black;
+	width: 400px;
+	margin-top: 0px;
+	margin-left: 1350px ;
+	height: 70px;
+	
+	
+}
+
+
+
+.textOV{
+	float:right;
+	background-color: lightgray;
+	padding: 0px;
+	border-radius: 10px;
+	border: 2px solid black;
+	width: 650px;
+	margin-top: 30px;
+	margin-right: 200px;
+	height: 200px;
+	
+}
+
+.textOV2{
+	font-family: 'roboto', sans-serif;
+	color: black;
+	font-size: 35px;
+	text-decoration: underline;
+	text-align: center;
+	margin-top: 15px;
+}
+
+.textOV3{
+	margin-top: 10px;
+	margin-left: 20px;
+	margin-right: 15px;
+	font-family: 'roboto', sans-serif;
+	color:black;
+	font-size: 18px;
+
+}
+
+.textOV1{
+	
+	background-color: lightgray;
+	padding: 0px;
+	border-radius: 10px;
+	border: 2px solid black;
+	width: 650px;
+	margin-top: 260px;
+	margin-left: 1050px;
+	height: 260px;
+}
+	
+.SS{
+	float: left;
+	width: 700px;
+	height: 900px;
+	margin-left: 50px;
+	margin-top: 30px;
+	border-style: solid;
+	border-color: #333;
+	border-radius: 3%;
+	border-width: 4px;
+}
+
+.textOV12{
+	margin-top: 10px;
+	margin-left: 20px;
+	margin-right: 15px;
+	font-family: 'roboto', sans-serif;
+	color:black;
+	font-size: 30px;
+	text-decoration: underline;
+	text-align: center;
+}
+
+.textOV13{
+	margin-top: 10px;
+	margin-left: 15px;
+	margin-right: 15px;
+	font-family: 'roboto', sans-serif;
+	color:black;
+	font-size: 25px;
+	text-decoration: underline;
+}
+
+.textOV14{
+	margin-top: 10px;
+	margin-left: 15px;
+	margin-right: 15px;
+	font-family: 'roboto', sans-serif;
+	color:black;
+	font-size: 20px;
+}
+
+.textOV15{
+	margin-top: 2px;
+	margin-left: 15px;
+	margin-right: 15px;
+	font-family: 'roboto', sans-serif;
+	color:black;
+	font-size: 20px;
+}
+
+.textOV16{
+	margin-top: 10px;
+	margin-left: 15px;
+	margin-right: 15px;
+	font-family: 'roboto', sans-serif;
+	color:black;
+	font-size: 25px;
+	text-decoration: underline;
+}
+
+.textOV17{
+	margin-top: 2px;
+	margin-left: 15px;
+	margin-right: 15px;
+	font-family: 'roboto', sans-serif;
+	color:black;
+	font-size: 20px;
+}
+
+.textOV18{
+	margin-top: 2px;
+	margin-left: 15px;
+	margin-right: 15px;
+	font-family: 'roboto', sans-serif;
+	color:black;
+	font-size: 20px;
+}
+
+table, th, td {
+	width: 400px;
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+th, td {
+	padding: 5px;
+	text-align: left;    
 }
