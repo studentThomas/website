@@ -96,7 +96,7 @@ main
 {
 	margin-top: 150px;
 	width: 100%;
-	padding: 100px 15%;
+	padding: 100px 0%;
 	background: #333;
 	color: #efefef;
 	display: flex;
@@ -104,6 +104,13 @@ main
 
 .footer div{
 	text-align: center;
+}
+
+.hl{
+	margin-left: 400px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	text-decoration: solid;
 }
 
 .col-2{
@@ -121,11 +128,12 @@ main
 	text-decoration: none;
 	color: #efefef;
 	margin-bottom: 10px;
+	margin-left: 400px;
 }
 
 form input{
 	width:400px;
-	height: 45px;
+	height: 55px;
 	border-radius: 4px;
 	text-align: center;
 	margin-top: 20px;
@@ -781,7 +789,7 @@ th, td {
 	width: 650px;
 	margin-top: 30px;
 	margin-left: 1050px;
-	height: 360px;
+	height: 380px;
 }
 
 .caption{
@@ -790,3 +798,15 @@ th, td {
 	font-size: 30px;
 	text-decoration: underline;
 }
+
+.lamsburger{
+	width: 600px;
+	height: 450px;
+	margin-left: 30px;
+	margin-top: 100px;
+	border-style: solid;
+	border-color: white;
+	border-radius: 3%;
+	border-width: 4px;
+}
+
